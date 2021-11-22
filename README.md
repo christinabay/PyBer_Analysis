@@ -4,7 +4,8 @@
 The purpose of this analysis was to analyze data from January to early May of 2019 for PyBer, a rideshare company. This is to be done using Matplotlib. The goal is to provide PyBer founder V. Isualize with an understanding of fare and driver metrics by city type, and visualization tools to help express these metrics.
 
 ## Results
-Describe differences in ride-sharing data among city types.
+
+<img src="PyBer-Summary-Data.png">
 
 The Summary Analysis in Deliverable 1 shows that:
 - Rural cities have the highest average fare per ride and highest average fare per driver
