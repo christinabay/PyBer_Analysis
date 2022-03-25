@@ -1,4 +1,4 @@
-# PyBer_Analysis
+# Rideshare_Analysis
 
 ## Overview
 The purpose of this analysis was to analyze data from January to early May of 2019 for a rideshare company. This is to be done using Matplotlib. The goal is to provide leadership with an understanding of fare and driver metrics by city type, and visualization tools to help express these metrics.
